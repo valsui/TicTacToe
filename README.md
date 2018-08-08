@@ -1,3 +1,7 @@
+### Tic Ta Toe
+Built off of React Tutorial as a base to write unit tests in Jest
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
